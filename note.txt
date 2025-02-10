@@ -1,0 +1,20 @@
+# Banking System Application (with clean archi principles)
+# three layers:
+# 1. Domain
+    # Entities with methods:
+    # Account Transaction
+    # Transaction 
+    # Customer
+
+# 2. Use Case
+    # creating new account
+    # making transaction
+    # generating account statements
+
+# 3. Infrastructure
+    # persisting data
+    # external service integrations
+    # data access objects
+
+
+# necessary classes and methods following the clean archi principles
